@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Simple Landing Page</title>
+        <link rel="stylesheet" href="CSS/style.css">
+        <link rel="stylesheet" href="JS/file.js">
+    </head>
+    <Body>
+        <header>
+        <h1> Welcome To My Web</h1>
+
+        <nav>
+            <a href="index.html">HOME</a>
+            <a href="login.html">LOGIN</a>
+            <a href="signup.html">SIGNUP</a>
+        </nav>
+        </header>
+
+        <h2>Welcome!</h2>
+        <p><i><b>This is the Landing Page</b></i></p>
+
+        <img src="SRC/d552f327-9123-4428-a183-4b14e54eac50.jpg" alt="Welcome Image" class="main-img">
+    </Body>
+</html>
